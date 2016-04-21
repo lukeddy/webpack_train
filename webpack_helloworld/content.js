@@ -1,1 +1,1 @@
-module.exports="我是content.js文件中的内容aaa";
+module.exports="content.js文件中的内容";
