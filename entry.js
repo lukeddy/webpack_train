@@ -1,1 +1,0 @@
-document.write("你好 webpack");
