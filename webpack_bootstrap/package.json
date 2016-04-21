@@ -1,0 +1,23 @@
+{
+  "name": "webpack_helloworld",
+  "version": "1.0.0",
+  "description": "webpack hello world",
+  "main": "bundle.js",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "imports-loader": "^0.6.5",
+    "jquery": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tangzhiqiang",
+  "license": "ISC"
+}

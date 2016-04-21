@@ -1,0 +1,1 @@
+module.exports="content.js文件中的内容";

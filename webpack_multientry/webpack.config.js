@@ -1,0 +1,16 @@
+module.exports={
+	entry:{
+       user:'./src/user.js',
+       product:'./src/product.js',
+       search:'./src/search.js'
+	},
+	output:{
+		path:__dirname+"/built",
+		filename:"[name].bundle.js"
+	},
+	module:{
+		loaders:[
+     		{test:/\.css$/,loader:"style!css"}
+		]
+	}
+}
