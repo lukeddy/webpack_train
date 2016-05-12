@@ -1,1 +1,8 @@
 webpack_helloworld/node_modules
+webpack_multientry/node_modules
+webpack_bootstrap/node_modules
+webpack_bootstrap/bower_components
+webpack_bootstrap/built
+node_modules
+bundle.js
+dist

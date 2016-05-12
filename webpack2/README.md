@@ -1,4 +1,4 @@
-#webpack示例1
+#webpack示例-多模块示例
 
 ##获取依赖
 `npm install`
