@@ -1,0 +1,1 @@
+document.getElementById('content').innerText = '我是产品页面，内容来自JS';

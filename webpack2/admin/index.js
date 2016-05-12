@@ -1,0 +1,1 @@
+document.getElementById('content').innerText = '我是管理员页面，内容来自JS';
