@@ -1,0 +1,11 @@
+body {
+	background: tomato;
+}
+#main{
+	width:960px;
+	height:300px;
+	padding-top:150px;
+	margin:auto;
+	background:lightgreen; 
+	text-align:center;
+}
